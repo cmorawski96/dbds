@@ -1,0 +1,3 @@
+login='morawski'
+pwd='Cezary'
+
